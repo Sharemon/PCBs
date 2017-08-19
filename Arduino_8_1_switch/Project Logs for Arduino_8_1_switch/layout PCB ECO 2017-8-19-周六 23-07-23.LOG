@@ -1,0 +1,153 @@
+Added Component: Designator=P2(SMB_V-RJ45)
+Added Component: Designator=P3(HDR1X10)
+Added Component: Designator=P4(HDR1X8)
+Added Component: Designator=P5(HDR1X7)
+Added Component: Designator=P6(HDR1X6)
+Added Component: Designator=R1(0805R)
+Added Component: Designator=R2(0805R)
+Added Component: Designator=R3(0805R)
+Added Component: Designator=R4(0805R)
+Added Component: Designator=R5(0805R)
+Added Component: Designator=R6(0805R)
+Added Component: Designator=R7(0805R)
+Added Component: Designator=R8(0805R)
+Added Component: Designator=R9(0805R)
+Added Component: Designator=R10(0805R)
+Added Component: Designator=R11(0805R)
+Added Component: Designator=R12(0805R)
+Added Component: Designator=R13(0805R)
+Added Component: Designator=R14(0805R)
+Added Component: Designator=U1(TSSOP16)
+Added Component: Designator=U2(TSSOP16)
+Added Pin To Net: NetName=5V0 Pin=P5-1
+Added Pin To Net: NetName=5V0 Pin=P5-4
+Added Pin To Net: NetName=5V0 Pin=U1-13
+Added Pin To Net: NetName=5V0 Pin=U2-13
+Added Net: Name=5V0
+Added Pin To Net: NetName=A0_0 Pin=P4-6
+Added Pin To Net: NetName=A0_0 Pin=U1-1
+Added Net: Name=A0_0
+Added Pin To Net: NetName=A0_1 Pin=P4-5
+Added Pin To Net: NetName=A0_1 Pin=U1-16
+Added Net: Name=A0_1
+Added Pin To Net: NetName=A0_2 Pin=P4-4
+Added Pin To Net: NetName=A0_2 Pin=U1-15
+Added Net: Name=A0_2
+Added Pin To Net: NetName=A1_0 Pin=P4-3
+Added Pin To Net: NetName=A1_0 Pin=U2-1
+Added Net: Name=A1_0
+Added Pin To Net: NetName=A1_1 Pin=P4-2
+Added Pin To Net: NetName=A1_1 Pin=U2-16
+Added Net: Name=A1_1
+Added Pin To Net: NetName=A1_2 Pin=P4-1
+Added Pin To Net: NetName=A1_2 Pin=U2-15
+Added Net: Name=A1_2
+Added Pin To Net: NetName=ADDR0_0 Pin=P1-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P1-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P1-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P1-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P2-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P2-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P2-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P2-2
+Added Pin To Net: NetName=ADDR0_0 Pin=P3-4
+Added Pin To Net: NetName=ADDR0_0 Pin=P5-5
+Added Pin To Net: NetName=ADDR0_0 Pin=P5-6
+Added Pin To Net: NetName=ADDR0_0 Pin=R1-1
+Added Pin To Net: NetName=ADDR0_0 Pin=R8-1
+Added Pin To Net: NetName=ADDR0_0 Pin=U1-3
+Added Pin To Net: NetName=ADDR0_0 Pin=U1-4
+Added Pin To Net: NetName=ADDR0_0 Pin=U1-14
+Added Pin To Net: NetName=ADDR0_0 Pin=U2-3
+Added Pin To Net: NetName=ADDR0_0 Pin=U2-4
+Added Pin To Net: NetName=ADDR0_0 Pin=U2-14
+Added Net: Name=ADDR0_0
+Added Pin To Net: NetName=ADDR0_1 Pin=R1-2
+Added Pin To Net: NetName=ADDR0_1 Pin=R2-1
+Added Pin To Net: NetName=ADDR0_1 Pin=U1-5
+Added Net: Name=ADDR0_1
+Added Pin To Net: NetName=ADDR0_2 Pin=R2-2
+Added Pin To Net: NetName=ADDR0_2 Pin=R3-1
+Added Pin To Net: NetName=ADDR0_2 Pin=U1-6
+Added Net: Name=ADDR0_2
+Added Pin To Net: NetName=ADDR0_3 Pin=R3-2
+Added Pin To Net: NetName=ADDR0_3 Pin=R4-1
+Added Pin To Net: NetName=ADDR0_3 Pin=U1-7
+Added Net: Name=ADDR0_3
+Added Pin To Net: NetName=ADDR0_4 Pin=R4-2
+Added Pin To Net: NetName=ADDR0_4 Pin=R5-1
+Added Pin To Net: NetName=ADDR0_4 Pin=U1-12
+Added Net: Name=ADDR0_4
+Added Pin To Net: NetName=ADDR0_5 Pin=R5-2
+Added Pin To Net: NetName=ADDR0_5 Pin=R6-1
+Added Pin To Net: NetName=ADDR0_5 Pin=U1-11
+Added Net: Name=ADDR0_5
+Added Pin To Net: NetName=ADDR0_6 Pin=R6-2
+Added Pin To Net: NetName=ADDR0_6 Pin=R7-1
+Added Pin To Net: NetName=ADDR0_6 Pin=U1-10
+Added Net: Name=ADDR0_6
+Added Pin To Net: NetName=ADDR0_7 Pin=P5-3
+Added Pin To Net: NetName=ADDR0_7 Pin=R7-2
+Added Pin To Net: NetName=ADDR0_7 Pin=R14-2
+Added Pin To Net: NetName=ADDR0_7 Pin=U1-9
+Added Pin To Net: NetName=ADDR0_7 Pin=U2-9
+Added Net: Name=ADDR0_7
+Added Pin To Net: NetName=ADDR0 Pin=P1-1
+Added Pin To Net: NetName=ADDR0 Pin=U1-8
+Added Net: Name=ADDR0
+Added Pin To Net: NetName=ADDR1_1 Pin=R8-2
+Added Pin To Net: NetName=ADDR1_1 Pin=R9-1
+Added Pin To Net: NetName=ADDR1_1 Pin=U2-5
+Added Net: Name=ADDR1_1
+Added Pin To Net: NetName=ADDR1_2 Pin=R9-2
+Added Pin To Net: NetName=ADDR1_2 Pin=R10-1
+Added Pin To Net: NetName=ADDR1_2 Pin=U2-6
+Added Net: Name=ADDR1_2
+Added Pin To Net: NetName=ADDR1_3 Pin=R10-2
+Added Pin To Net: NetName=ADDR1_3 Pin=R11-1
+Added Pin To Net: NetName=ADDR1_3 Pin=U2-7
+Added Net: Name=ADDR1_3
+Added Pin To Net: NetName=ADDR1_4 Pin=R11-2
+Added Pin To Net: NetName=ADDR1_4 Pin=R12-1
+Added Pin To Net: NetName=ADDR1_4 Pin=U2-12
+Added Net: Name=ADDR1_4
+Added Pin To Net: NetName=ADDR1_5 Pin=R12-2
+Added Pin To Net: NetName=ADDR1_5 Pin=R13-1
+Added Pin To Net: NetName=ADDR1_5 Pin=U2-11
+Added Net: Name=ADDR1_5
+Added Pin To Net: NetName=ADDR1_6 Pin=R13-2
+Added Pin To Net: NetName=ADDR1_6 Pin=R14-1
+Added Pin To Net: NetName=ADDR1_6 Pin=U2-10
+Added Net: Name=ADDR1_6
+Added Pin To Net: NetName=ADDR1 Pin=P2-1
+Added Pin To Net: NetName=ADDR1 Pin=U2-8
+Added Net: Name=ADDR1
+Added Pin To Net: NetName=EN0 Pin=P3-10
+Added Pin To Net: NetName=EN0 Pin=U1-2
+Added Net: Name=EN0
+Added Pin To Net: NetName=EN1 Pin=P3-9
+Added Pin To Net: NetName=EN1 Pin=U2-2
+Added Net: Name=EN1
+Added Member To Class: ClassName=sch Member=Component P1 SMB
+Added Member To Class: ClassName=sch Member=Component P2 SMB
+Added Member To Class: ClassName=sch Member=Component P3 Header 10
+Added Member To Class: ClassName=sch Member=Component P4 Header 8
+Added Member To Class: ClassName=sch Member=Component P5 Header 7
+Added Member To Class: ClassName=sch Member=Component P6 Header 6
+Added Member To Class: ClassName=sch Member=Component R1 Res2
+Added Member To Class: ClassName=sch Member=Component R2 Res2
+Added Member To Class: ClassName=sch Member=Component R3 Res2
+Added Member To Class: ClassName=sch Member=Component R4 Res2
+Added Member To Class: ClassName=sch Member=Component R5 Res2
+Added Member To Class: ClassName=sch Member=Component R6 Res2
+Added Member To Class: ClassName=sch Member=Component R7 Res2
+Added Member To Class: ClassName=sch Member=Component R8 Res2
+Added Member To Class: ClassName=sch Member=Component R9 Res2
+Added Member To Class: ClassName=sch Member=Component R10 Res2
+Added Member To Class: ClassName=sch Member=Component R11 Res2
+Added Member To Class: ClassName=sch Member=Component R12 Res2
+Added Member To Class: ClassName=sch Member=Component R13 Res2
+Added Member To Class: ClassName=sch Member=Component R14 Res2
+Added Member To Class: ClassName=sch Member=Component U1 ADG708
+Added Member To Class: ClassName=sch Member=Component U2 ADG708
+Added Room: Name=sch
