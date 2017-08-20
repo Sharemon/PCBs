@@ -1,12 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Arduino_8_1_switch.PrjPCB]
-   Generated File[layout.TXT]
-   Generated File[layout.LDP]
-   Generated File[layout.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Arduino_8_1_switch.PrjPCB]
 
 
-Files Generated   : 3
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 1:18:58 On 2017/8/20/周日
+Finished Output Generation At 9:52:18 On 2017/8/20/周日
