@@ -1,0 +1,27 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~stm_effen_psb_controller.PrjPCB|ReportField=ProjectFullPath~C:\Users\share\Documents\Proj_Local\PCBs\stm32_effen_psb_controller\stm_effen_psb_controller.PrjPCB|ReportField=Title~Bill of Materials For Project [stm_effen_psb_controller.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~78|ReportField=ReportTime~17:50:24|ReportField=ReportDate~2017/10/8|ReportField=ReportDateTime~2017/10/8 17:50:24|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/10/8|ReportField=CurrentTime~17:50:20|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\share\Documents\Proj_Local\PCBs\stm32_effen_psb_controller\sch.SchDoc|ReportField=DocumentName~sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/10/8|ReportField=Organization~|ReportField=ProjectName~stm_effen_psb_controller.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~stm_effen_psb_controller.PrjPCB|ReportField=DataSourceFullPath~C:\Users\share\Documents\Proj_Local\PCBs\stm32_effen_psb_controller\stm_effen_psb_controller.PrjPCB
+Cap|Capacitor|C1, C2, C3, C4, C5, C6, C7, C9, C11, C12, C13, C14, C15, C17, C18, C19, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32|6-0805_M|Cap|28
+Cap|Capacitor|C8, C10, C16, C20|1206_ROY|Cap|4
+LED_TX|Typical INFRARED GaAs LED|D1, D4|6-0805_M|LED0|2
+LED_DIP||D2, D3|LED_3mm|LED_3mm|2
+LED_RX|Typical INFRARED GaAs LED|D5|6-0805_M|LED0|1
+Relay Jumper|Header, 2-Pin|J1|HDR1X2|Header 2|1
+Socket|Socket|J2, J3|PIN1|Socket|2
+USB|Header, 5-Pin|P1|mini_USB|Header 5|1
+BOOT|Header, 3-Pin, Dual row|P2|HDR2X3|Header 3X2|1
+IA|Header, 2-Pin|P3|KF127-0.5-2|Header 2|1
+IB|Header, 2-Pin|P4|KF127-0.5-2|Header 2|1
+VA|Header, 2-Pin|P5|KF127-0.5-2|Header 2|1
+Header 16X2|Header, 16-Pin, Dual row|P6|HDR2X16|Header 16X2|1
+Relay|Header, 3-Pin|P7|KF127-0.5-3|Header 3|1
+9153Header|Header, 8-Pin, Dual row|P8|HDR2X8|Header 8X2|1
+OLED|Header, 7-Pin|P9|HDR1X7|Header 7|1
+SWD|Header, 5-Pin|P10|HDR1X5|Header 5|1
+UART|Header, 2-Pin|P11|HDR1X2|Header 2|1
+Res3|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15|6-0805_M|Res3|15
+Res3|Resistor|R16, R17, R18, R19, R21|1206_ROY|Res3|5
+SW_4Pin||SW1|SW_4|SW_4Pin|1
+STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U1|LQFP48_N|STM32F103C8T6|1
+LM1117||U2|SOT223-4L|LM1117|1
+FT232RL-Reel|USB UART Asynchronous Serial Data Transfer Chip, SSOP-28, Tape and Reel|U3|SSOP-28_N|FT232RL-Reel|1
+9153||U4|LFCSP_32|9153|1
+XTAL|Crystal Oscillator|Y1, Y2|XTAL_SMT|XTAL|2

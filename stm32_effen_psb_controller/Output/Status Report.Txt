@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [stm_effen_psb_controller.PrjPCB]
+   Generated File[layout.TXT]
+   Generated File[layout.LDP]
+   Generated File[layout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:02:13 On 2017/10/8

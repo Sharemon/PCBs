@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=EFFEN_CSB Pin=U1-14
+Removed Pin From Net: NetName=EFFEN_DOUT Pin=U1-18
+Added Pin To Net: NetName=EFFEN_DOUT Pin=U1-14
+Added Pin To Net: NetName=EFFEN_CSB Pin=U1-18
+Added Room: Name=sch

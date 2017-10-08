@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED0 Pin=U1-11
+Removed Pin From Net: NetName=LED1 Pin=U1-12
+Removed Pin From Net: NetName=UART_TX Pin=U1-30
+Removed Pin From Net: NetName=UART_RX Pin=U1-31
+Added Pin To Net: NetName=UART_TX Pin=U1-12
+Added Pin To Net: NetName=UART_RX Pin=U1-13
+Added Pin To Net: NetName=LED0 Pin=U1-30
+Added Pin To Net: NetName=LED1 Pin=U1-31
+Added Room: Name=sch

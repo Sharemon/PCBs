@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=9153_CSB Pin=U1-14
+Removed Pin From Net: NetName=9153_SCLK Pin=U1-15
+Removed Pin From Net: NetName=9153_MISO Pin=U1-16
+Removed Pin From Net: NetName=9153_MOSI Pin=U1-17
+Removed Pin From Net: NetName=EFFEN_CSB Pin=U1-25
+Removed Pin From Net: NetName=EFFEN_SCLK Pin=U1-26
+Removed Pin From Net: NetName=EFFEN_MISO Pin=U1-27
+Removed Pin From Net: NetName=EFFEN_MOSI Pin=U1-28
+Added Pin To Net: NetName=EFFEN_CSB Pin=U1-14
+Added Pin To Net: NetName=EFFEN_SCLK Pin=U1-15
+Added Pin To Net: NetName=EFFEN_MISO Pin=U1-16
+Added Pin To Net: NetName=EFFEN_MOSI Pin=U1-17
+Added Pin To Net: NetName=9153_CSB Pin=U1-25
+Added Pin To Net: NetName=9153_SCLK Pin=U1-26
+Added Pin To Net: NetName=9153_MISO Pin=U1-27
+Added Pin To Net: NetName=9153_MOSI Pin=U1-28
+Added Room: Name=sch

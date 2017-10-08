@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=9153_IRQ Pin=U1-30
+Removed Pin From Net: NetName=9153_RSTB Pin=U1-31
+Added Pin To Net: NetName=9153_RSTB Pin=U1-30
+Added Pin To Net: NetName=9153_IRQ Pin=U1-31
+Added Room: Name=sch

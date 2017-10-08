@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V Pin=D1-2
+Change Component DesignItemId : Designator=D1 Old DesignItemId=LED_3mm New DesignItemId=LED0
+Change Component Footprint: Designator=D1 Old Footprint=LED_3mm New Footprint=6-0805_M
+Change Component Comment : Designator=D1 Old Comment=LED_DIP New Comment=LED_TX
+Added Pin To Net: NetName=3.3V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R4-2
+Added Net: Name=NetD1_2
+Added Room: Name=sch

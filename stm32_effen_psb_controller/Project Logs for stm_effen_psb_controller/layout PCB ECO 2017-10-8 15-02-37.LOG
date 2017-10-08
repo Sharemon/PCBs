@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Header 2 New DesignItemId=Header 3
+Change Component Footprint: Designator=P7 Old Footprint=KF127-0.5-2 New Footprint=HDR1X3
+Change Component Comment : Designator=P7 Old Comment=Relay Connector New Comment=Relay
+Added Pin To Net: NetName=3.3V Pin=P7-3
+Added Room: Name=sch
